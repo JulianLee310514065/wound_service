@@ -94,7 +94,7 @@ docker-compose up --build -d
 ### 前端服務 (Frontend) - `wound_frontend_container`
 - **基於目錄**: `yolov4_flask_api_20240321v2/`
 - **對外端口**: 8326
-- **Dockerfile**: `Dockerfile.ubuntu16`
+- **Dockerfile**: `Dockerfile`
 - **主要功能**: 
   - 🖼️ 圖片上傳介面
   - 🔗 服務整合協調（調用分割和組織分析）
